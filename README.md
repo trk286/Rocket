@@ -28,5 +28,8 @@ In this game the users wont have any idea when the "WIN" is declared in the NFT.
 - The cost to mint this NFT is free except for gas-fees
 - Unlimited number of NFTs can be minted
 
+## Output of the Game (NFT)
+![pic5](https://user-images.githubusercontent.com/66104387/139566658-48b29f02-7245-4dda-b5ba-d005976db0b0.PNG)
+
 ## License
 MIT
